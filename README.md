@@ -17,7 +17,7 @@
 1. Склонируйте репозиторий
 
 ```sh
-git clone
+git clone https://github.com/nlr/qa-test-assignment.git
 ```
 
 2. Перейдите в каталог проекта
